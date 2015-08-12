@@ -1,3 +1,17 @@
 tr {
-  border: 1px black;
+  border: 1px green;
+}
+
+h1, h2, h3{
+  font-family: Ubuntu;
+  color: blue;
+}
+
+body {
+  background-color: #105B63;
+}
+
+table {
+  font-family: Arial;
+  color: yellow;
 }
