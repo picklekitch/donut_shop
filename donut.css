@@ -1,4 +1,70 @@
 tr {
+  border: 1px green;
+}
+
+th {
+  padding: 10px;
+}
+
+h1 {
+  font-family: Ubuntu;
+  color: white;
+  background-color: #062347;
+  padding: 15px;
+  position: fixed;
+  margin-top: -100px;
+}
+
+p#topp {
+  margin-top: 100px;
+}
+
+body {
+  background-color: #105B63;
+  min-width: 200px;
+  max-width: 1000px;
+}
+
+li {
+  position: relative;
+  left: 400px;
+  bottom: 25px;
+}
+
+input#nuShop {
+  color: yellow;
+  background-color: green;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+input#Location {
+  background-color: #75CA87;
+  margin-left: 212px;
+  position: absolute;
+}
+input#minCust {
+  background-color: #75CA87;
+  margin-left: 71px;
+  position: absolute;
+}
+input#maxCust {
+  background-color: #75CA87;
+  margin-left: 72px;
+  position: absolute;
+}
+input#avgDonutCust {
+  background-color: #75CA87;
+  margin-left: 4px;
+  position: absolute;
+}
+
+table {
+  font-family: Arial;
+  color: yellow;
   border: 1px blue;
 }
 
