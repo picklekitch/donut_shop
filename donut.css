@@ -65,4 +65,12 @@ input#avgDonutCust {
 table {
   font-family: Arial;
   color: yellow;
+  border: 1px blue;
 }
+
+h1, h2, h3 {
+  font-family: Ubuntu;
+  color: yellow;
+}
+
+
